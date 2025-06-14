@@ -115,7 +115,7 @@ def loadData(data_path="/home/linhhima/AF-Detection/mit-bih-atrial-fibrillation-
         SE.extend(se)
       
        
-    np.savez('comparision_auto_manual.npz',
+    np.savez('comparision_auto_manual_2.npz',
         #  segment=np.array(segment),
          manual_label=np.array(manual_label),
          auto_label=np.array(auto_label),

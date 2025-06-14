@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from visualization import plot_ecg_segment
 
 def test():
-    folder_path = "comparision_auto_manual.npz"
+    folder_path = "comparision_auto_manual_MIMIC.npz"
     data = np.load(folder_path)
     # rr_interval = data["segment"]
     manual_label = data["manual_label"]

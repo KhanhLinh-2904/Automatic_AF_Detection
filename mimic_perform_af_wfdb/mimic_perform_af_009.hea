@@ -1,0 +1,5 @@
+mimic_perform_af_009 3 125 150001
+mimic_perform_af_009.dat 16 65534(-32767)/NU 0 0 3812 2300 0 PPG, Fingertip PPG recorded using bedside monitor
+mimic_perform_af_009.dat 16 32799.0303(-16432)/mV 0 0 -3812 -32509 0 ECG, ECG recorded using bedside monitor, lead II
+mimic_perform_af_009.dat 16 65534(-32767)/pm 0 0 20916 -693 0 resp, Impedance pneumography respiratory signal recorded at the chest using bedside monitor
+#<Original Subject ID>: p068956 <Original Recording ID>: p068956-2107-04-21-16-05 <Original File>: 3750551_0004 <subject group>: 

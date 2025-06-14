@@ -16,8 +16,8 @@ def assignLabel(segments_128):
     # Thresholds
     THRESHOLDS = {
         "TPR": (0.54, 0.77),
-        "SE": (0.7, 1.5),
-        "RMSSD": (0.1, 1.5),
+        "SE": (0.55, 1.5),
+        "RMSSD": (0.1, 10),
     }
 
     for i in range(num_windows):
